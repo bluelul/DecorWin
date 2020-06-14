@@ -2,7 +2,7 @@
 struct person
 {
 	int age;
-	int weight;
+	int weighdt;
 };
 
 int main(int argc, char const *argv[])
